@@ -12,6 +12,5 @@ selenium==4.7.2
 chromedriver-autoinstaller==0.4.0
 lxml==4.9.2
 youtube-dl==2021.12.17
-beautifulsoup4
 ffmpeg
 PyNaCl==1.5.0
