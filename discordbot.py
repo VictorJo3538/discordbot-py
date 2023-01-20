@@ -388,7 +388,6 @@ async def 삭제(ctx, *, msg):
 
 def start():
   try:
-      keep_alive()
       bot.run(os.environ['TOKEN'])
   except:
     pass
