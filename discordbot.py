@@ -7,6 +7,7 @@ import bs4
 from selenium import webdriver
 import chromedriver_autoinstaller
 import time
+import os
 
 intents = nextcord.Intents.all()
 bot = commands.Bot(intents=intents, command_prefix='.')
